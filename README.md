@@ -1,2 +1,4 @@
 # quizapp
-This is a simple quiz app in angularjs. You can see the explanation here: http://technology.vishalsrini.com/quiz-app-using-angularjs
+This is a simple quiz application in angularjs. 
+
+You can see the explanation in the following link: http://technology.vishalsrini.com/quiz-app-using-angularjs
